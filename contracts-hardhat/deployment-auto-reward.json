@@ -1,0 +1,17 @@
+{
+  "network": "Monad Testnet",
+  "deployer": "0x7FC28a59EFD317550FE71516f882f067fECdC21a",
+  "contract": {
+    "name": "TugOfWarAutoReward",
+    "address": "0x9E79746D8523D80CBDDf7cea43C54Df4866ee0bF",
+    "stakeAmount": "0.01",
+    "owner": "0x7FC28a59EFD317550FE71516f882f067fECdC21a",
+    "features": [
+      "Automatic reward distribution",
+      "Native MON token support",
+      "Room-based game management",
+      "Emergency withdrawal function"
+    ]
+  },
+  "timestamp": "2025-07-28T20:31:49.554Z"
+}
